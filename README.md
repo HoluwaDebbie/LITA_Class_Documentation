@@ -1,7 +1,14 @@
 # LITA_Class_Documentation
 ### Project Title: PIZZA SALES PERFORMANCE ANALYSIS
 
-[Project Overview].(#project-overview).
+[Project Overview](#project-overview).
+
+[Data Sources](#data-sources).
+
+[Tools Used](#tools-used).
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations).
+
 
 ### Project Overview
 
@@ -13,7 +20,7 @@ The data for this analysis comes from the Pizza Sales.csv file, which was freely
 
 ### Tools Used
 
-- Microsoft Excel [Download Here].(https://www.mircosoft.com).
+- Microsoft Excel [Download Here](https://www.mircosoft.com).
 
 1. For Data Cleaning
 2. For Data Analysis
