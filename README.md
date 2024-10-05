@@ -13,15 +13,20 @@
 
 [Data Analysis](#data-analysis).
 
-[Data Visualization](data-visualization).
+[Data Visualization](#data-visualization).
+
+[Conclusion](#conclusion).
 
 ### Project Overview
 
 This project analyzes pizza sales data to understand how customers order, which pizza sizes they prefer, when the busiest times are, and how pricing affects sales. The insights from this analysis will help improve marketing, manage inventory more efficiently, and boost customer satisfaction.
 
+---
 ### Data Sources  
 
-The data for this analysis comes from the Pizza Sales.csv file, which was freely downloaded from Kaggle.com.
+The data for this analysis comes from the *Pizza Sales.csv* file, which was freely downloaded from *Kaggle.com*.
+
+---
 
 ### Tools Used
 
@@ -35,6 +40,8 @@ The data for this analysis comes from the Pizza Sales.csv file, which was freely
   
 - GitHub for Porfolio Building
 
+---
+
 ### Data Cleaning and Preparations
 
 For this dataset, I performed several key actions to ensure the data was ready for analysis:
@@ -46,6 +53,7 @@ For this dataset, I performed several key actions to ensure the data was ready f
 - Converted data types (e.g., date and time formats) to ensure proper analysis.
 - Filtered out any irrelevant data that did not contribute to the analysis.
 
+---
 ### Exploratory Data Analysis
 
 During the EDA, the data was explored to address the following key questions:
@@ -55,6 +63,8 @@ During the EDA, the data was explored to address the following key questions:
 - What day of the week sees the highest sales volume?
 - What month records the most sales?
 - Which specific pizza name is the most frequently ordered by customers?
+
+---
 
 ### Data Analysis
 
@@ -75,10 +85,21 @@ The analysis of the pizza sales data provided key insights into customer prefere
 4. Month with the Most Sales: January recorded the highest total sales, followed by March and November. This indicates strong demand in these months, possibly due to the post-holiday period and other seasonal factors.
 5. Top-Selling Pizza Name: The Classic Deluxe Pizza was the most frequently ordered pizza, with a total quantity of 2,453 sold. This indicates strong customer preference for this specific variety, which can drive targeted promotions and highlight popular menu items to boost sales further.
 
+---
 ### Data Visualization
 ![Pizza Size Preferences](https://github.com/user-attachments/assets/dfa047c8-74e1-471e-a5a3-14dd2237a0bb)
 ![Most Frequently Ordered Pizza](https://github.com/user-attachments/assets/315cf426-7b6b-40aa-adad-750197092a71)
 ![Popular Pizza Categories](https://github.com/user-attachments/assets/ce66278e-1905-4b2f-ab77-ba300c41bd22)
+![Month with Most Sales](https://github.com/user-attachments/assets/c9f60e90-ab40-42ce-a68c-1ce1725f9092)
+![Days of the Week with HIghest Sales](https://github.com/user-attachments/assets/25434d7c-d235-4413-8d50-955c55f4de8a)
+
+---
+### Conclusion
+
+The pizza sales analysis revealed key insights: **Large** pizzas and the **Classic** category were the most popular, with sales peaking on **Fridays** and during **dinner hours**. **January** had the highest sales, and **The Classic Deluxe Pizza** was the top seller. These findings can guide targeted promotions, inventory management, and staffing to better align with customer demand, boosting sales and operational efficiency.
+
+---
+
 
 
 
