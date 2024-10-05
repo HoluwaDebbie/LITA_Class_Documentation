@@ -76,6 +76,11 @@ The analysis of the pizza sales data provided key insights into customer prefere
 5. Top-Selling Pizza Name: The Classic Deluxe Pizza was the most frequently ordered pizza, with a total quantity of 2,453 sold. This indicates strong customer preference for this specific variety, which can drive targeted promotions and highlight popular menu items to boost sales further.
 
 ### Data Visualization
+![Pizza Size Preferences](https://github.com/user-attachments/assets/dfa047c8-74e1-471e-a5a3-14dd2237a0bb)
+![Most Frequently Ordered Pizza](https://github.com/user-attachments/assets/315cf426-7b6b-40aa-adad-750197092a71)
+![Popular Pizza Categories](https://github.com/user-attachments/assets/ce66278e-1905-4b2f-ab77-ba300c41bd22)
+
+
 
 
 
