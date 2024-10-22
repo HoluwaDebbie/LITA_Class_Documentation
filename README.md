@@ -87,11 +87,15 @@ The analysis of the pizza sales data provided key insights into customer prefere
 
 ---
 ### Data Visualization
-![Pizza Size Preferences](https://github.com/user-attachments/assets/dfa047c8-74e1-471e-a5a3-14dd2237a0bb)
-![Most Frequently Ordered Pizza](https://github.com/user-attachments/assets/315cf426-7b6b-40aa-adad-750197092a71)
-![Popular Pizza Categories](https://github.com/user-attachments/assets/ce66278e-1905-4b2f-ab77-ba300c41bd22)
-![Month with Most Sales](https://github.com/user-attachments/assets/c9f60e90-ab40-42ce-a68c-1ce1725f9092)
-![Days of the Week with HIghest Sales](https://github.com/user-attachments/assets/25434d7c-d235-4413-8d50-955c55f4de8a)
+[Pizza Size Preferences](https://github.com/user-attachments/assets/dfa047c8-74e1-471e-a5a3-14dd2237a0bb)
+
+[Most Frequently Ordered Pizza](https://github.com/user-attachments/assets/315cf426-7b6b-40aa-adad-750197092a71)
+
+[Popular Pizza Categories](https://github.com/user-attachments/assets/ce66278e-1905-4b2f-ab77-ba300c41bd22)
+
+[Month with Most Sales](https://github.com/user-attachments/assets/c9f60e90-ab40-42ce-a68c-1ce1725f9092)
+
+[Days of the Week with HIghest Sales](https://github.com/user-attachments/assets/25434d7c-d235-4413-8d50-955c55f4de8a)
 
 ---
 ### Conclusion
